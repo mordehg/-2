@@ -1,0 +1,7 @@
+﻿body {
+    background-image: url("images/background.png")
+}
+canvs{
+    border:2px solid #000000;
+    background-color: white;
+}
